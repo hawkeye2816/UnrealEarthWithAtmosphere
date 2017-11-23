@@ -1,0 +1,5 @@
+*.log
+*.ini
+Saved/Backup/*
+Content/StarterContent/*
+Saved/Autosaves/*
